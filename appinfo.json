@@ -10,10 +10,13 @@
         "media": []
     },
     "sdkVersion": "3",
-    "shortName": "TestCWatchFace",
+    "shortName": "TestWatchFace",
+    "targetPlatforms": [
+        "aplite"
+    ],
     "uuid": "30a1db51-9d26-4566-b1c8-4e9d9bc7f7f7",
     "versionLabel": "1.0",
     "watchapp": {
-        "watchface": false
+        "watchface": true
     }
 }
