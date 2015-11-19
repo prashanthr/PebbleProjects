@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "prashweb@gmail.com",
+    "longName": "TestCWatchFace",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "TestCWatchFace",
+    "uuid": "30a1db51-9d26-4566-b1c8-4e9d9bc7f7f7",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
